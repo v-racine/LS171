@@ -1,4 +1,4 @@
-<h1> How does the Internet Work? A Socratic Dialogue <h1>
+# How does the Internet Work? A Socratic Dialogue
 
 SETUP => Ted (played by a young Keanu Reeves) is a LS student who, on a fortuitous day, discovers a phone booth-shaped time machine that allows him to time travel. He's immediately thrilled about the possibility of visiting different eras and speaking with historical figures. Maybe he'll try to meet up with Billy the Kid, Sigmund Freud, Ludwig van Beethoven, Joan of Arc, Genghis Khan or Abraham Lincoln! 
 
